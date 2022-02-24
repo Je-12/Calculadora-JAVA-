@@ -33,7 +33,14 @@ public class Calculadora{
                 System.out.println("A soma é: " + operacao );
                 break;
             }
-
+            if(op == 2){
+                int operacao= Calculadora.sub(num1, num2);
+                System.out.println(" A subtração é: " + operacao );
+                break;
+            }
+            if(op == 0){
+                break;
+            }
         }
 
     }
