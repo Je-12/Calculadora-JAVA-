@@ -1,3 +1,3 @@
-### Aula PDM - Fatec Ipiranga
+### Aula PDM - Fatec Ipiranga 
 
-* Desafio: Calculadora (JAVA) 
+### Desafio: Desenvolver uma Calculadora utilizando e implementando via linguagem JAVA.
